@@ -9,7 +9,7 @@
 ### 2. Zapier Automation
 - Using spreadsheet update row trigger
 - Sends Telegram message with: Agency Name, Freelancer Name, Upwork Link, Status
-Caputre of zapier workflow
+Caputre of zapier workflow\
 ![Zapier Workflow](images/zapier-workflow.png)
 ---
 
