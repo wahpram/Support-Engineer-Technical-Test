@@ -9,7 +9,6 @@
 ### 2. Zapier Automation
 - Using spreadsheet update row trigger
 - Sends Telegram message with: Agency Name, Freelancer Name, Upwork Link, Status
-- Downloaded into json -> exported-zap-workflow.json
 ---
 
 ### 3. Analysis Results
