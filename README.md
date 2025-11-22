@@ -13,7 +13,7 @@
 ---
 
 ### 3. Analysis Results
-
+- The analysis made in anaylsis.ipynb
 #### Top 3 Variables Impacting Earnings:
 | Rank | Variable | Feature Importance | Correlation |
 |------|----------|-------------------|-------------|
